@@ -2,3 +2,7 @@
 kanji_images
 kanji_images/*
 kanji-diffusion/
+
+#pre-trained models
+stable-diffusion-v1-4
+diffusers
