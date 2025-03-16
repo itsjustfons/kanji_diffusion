@@ -11,4 +11,8 @@ diffusers/*
 *.parquet
 *.csv
 
+#sd-v1-4.ckpt
 *.ckpt
+
+# delete mode 100644 annotations.parquet
+# delete mode 100644 sd-v1-4.ckptannotations.parquet
