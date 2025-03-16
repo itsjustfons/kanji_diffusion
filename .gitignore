@@ -5,7 +5,7 @@ kanji-diffusion/
 
 #pre-trained models
 stable-diffusion-v1-4
-diffusers
+diffusers/*
 
 #parquet files and csv
 *.parquet
