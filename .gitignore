@@ -10,3 +10,5 @@ diffusers/*
 #parquet files and csv
 *.parquet
 *.csv
+
+*.ckpt
